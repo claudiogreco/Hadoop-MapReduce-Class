@@ -1,7 +1,7 @@
 hadoop-mapreduce-class
 ======================
 
-Solutions to the assignments of Udacity's Introduction to Hadoop and MapReduce class
+Solutions to the assignments of Udacity's Introduction to Hadoop and MapReduce
 
 [Dataset of problem set 1](http://content.udacity-data.com/courses/ud617/purchases.txt.gz)
 
